@@ -62,12 +62,12 @@ const claudio = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=0a0a0a&title_color=4a90e2&icon_color=4a90e2&text_color=ffffff&border_color=4a90e2" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&bg_color=0a0a0a&title_color=4a90e2&text_color=ffffff&border_color=4a90e2" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gadanup&show_icons=true&theme=tokyonight&bg_color=0a0a0a&title_color=4a90e2&icon_color=4a90e2&text_color=ffffff&border_color=4a90e2" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gadanup&layout=compact&theme=tokyonight&bg_color=0a0a0a&title_color=4a90e2&text_color=ffffff&border_color=4a90e2" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&background=0a0a0a&ring=4a90e2&fire=4a90e2&currStreakLabel=4a90e2&border=4a90e2" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gadanup&theme=tokyonight&background=0a0a0a&ring=4a90e2&fire=4a90e2&currStreakLabel=4a90e2&border=4a90e2" alt="GitHub Streak" />
 </div>
 
 ---
@@ -116,7 +116,7 @@ graph LR
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0a0a0a&color=4a90e2&line=4a90e2&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gadanup&bg_color=0a0a0a&color=4a90e2&line=4a90e2&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -198,7 +198,7 @@ graph LR
 <div align="center">
   <h3>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
   
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=4A90E2" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Gadanup&style=flat-square&color=4A90E2" alt="Profile Views" />
   
   <br><br>
   
