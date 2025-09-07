@@ -63,18 +63,6 @@ Frontend Developer passionate about bridging **enterprise SAP solutions** with *
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gadanup&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gadanup&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gadanup&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-  
-</div>
-
 ## 🎯 Featured Projects
 
 ### 🏆 Personal Portfolio Website
