@@ -1,212 +1,161 @@
-# Hi there! 👋 I'm Cláudio Jesus
+# 👋 Developer.exe is ONLINE
+
+```javascript
+const developer = {
+  name: 'Cláudio Jesus',
+  fuel: '🎵 music',
+  stack: ['React', 'SAP UI5', 'BTP'],
+  mode: 'coding',
+  status: 'available'
+};
+
+while(motivated) {
+  buildAwesomeStuff();
+}
+```
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=4A90E2&background=0A0A0A00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Frontend+Developer;React+Enthusiast;UI%2FUX+Focused;Problem+Solver" alt="Typing SVG" />
+  
+  ![Status](https://img.shields.io/badge/Status-Available%20for%20Opportunities-4caf50?style=for-the-badge&logo=rocket)
+  ![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-4a90e2?style=for-the-badge&logo=calendar)
+  ![Location](https://img.shields.io/badge/Location-Setúbal,%20Portugal-ff9800?style=for-the-badge&logo=location-on)
+  
 </div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Available_for_new_projects-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Available for projects" />
-  <img src="https://img.shields.io/badge/3%2B_Years_Experience-4A90E2?style=for-the-badge&logo=calendar&logoColor=white" alt="Experience" />
-  <img src="https://img.shields.io/badge/Based_in_Portugal-FF9800?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-</div>
-
----
 
 ## 🚀 About Me
 
-I'm a **Frontend Developer** passionate about creating beautiful, functional web experiences. I specialize in **React** and modern JavaScript ecosystems, with a strong focus on user experience and performance optimization.
+Frontend Developer passionate about bridging **enterprise SAP solutions** with **modern web technologies**. I thrive in environments where enterprise stability meets cutting-edge innovation.
 
-```javascript
-const claudio = {
-    location: "Pinhal Novo, Portugal",
-    currentRole: "Senior Frontend Developer",
-    technologies: {
-        frontend: ["React", "Next.js", "TypeScript", "JavaScript"],
-        styling: ["CSS3", "SASS", "Material-UI", "Tailwind CSS"],
-        tools: ["Git", "VS Code", "Figma", "Chrome DevTools"],
-        learning: ["Three.js", "GraphQL", "Docker", "AWS"]
-    },
-    currentFocus: "Building scalable React applications",
-    funFact: "I debug with console.log and I'm not ashamed! 🐛"
-};
-```
+### Current Focus
+- 🏢 Building enterprise applications with **SAP UI5** and **React.js**
+- ☁️ Exploring **SAP BTP** cloud services and modern deployment strategies
+- 🎮 Developing personal projects that blend technology with creativity
+- 📚 Continuously learning and staying current with both enterprise and web trends
 
----
+### What Sets Me Apart
+- **Dual Expertise**: Enterprise SAP development + Modern React ecosystem
+- **Bridge Builder**: Connecting traditional enterprise systems with modern UX patterns
+- **Problem Solver**: Analytical approach to complex technical challenges
+- **Team Player**: Strong collaboration across different technology stacks
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-<div align="center">
+### Enterprise Solutions
+![SAP UI5](https://img.shields.io/badge/SAP%20UI5-0070F3?style=flat-square&logo=sap&logoColor=white)
+![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-0070F3?style=flat-square&logo=sap&logoColor=white)
+![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0070F3?style=flat-square&logo=sap&logoColor=white)
+![OData](https://img.shields.io/badge/OData%20Services-0070F3?style=flat-square&logo=sap&logoColor=white)
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Modern Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### Styling & Design
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
 ### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gadanup&show_icons=true&theme=tokyonight&bg_color=0a0a0a&title_color=4a90e2&icon_color=4a90e2&text_color=ffffff&border_color=4a90e2" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gadanup&layout=compact&theme=tokyonight&bg_color=0a0a0a&title_color=4a90e2&text_color=ffffff&border_color=4a90e2" alt="Top Languages" />
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gadanup&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gadanup&theme=radical&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gadanup&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gadanup&theme=tokyonight&background=0a0a0a&ring=4a90e2&fire=4a90e2&currStreakLabel=4a90e2&border=4a90e2" alt="GitHub Streak" />
-</div>
+## 🎯 Featured Projects
 
----
+### 🏆 Personal Portfolio Website
+**Next.js • React • Material-UI • Framer Motion**
+- Comprehensive portfolio showcasing technical skills and projects
+- Advanced animations and responsive design system
+- Component-based architecture with 90%+ reusability
 
-## 🎯 Current Focus
+### ⚽ Liga dos Veteranos do Sado
+**React • Supabase • PostgreSQL**
+- Football league management platform for Setúbal region
+- Dynamic statistics and interactive league standings
+- Real-time data visualization
 
-<div align="center">
+### 🔧 Benny's CheatSheet
+**React • Next.js • Supabase**
+- Business management system for GTA V RP mechanic shop
+- Automated cost calculations and inventory management
+- Multi-user daily operations system
 
-```mermaid
-graph LR
-    A[🎯 Learning] --> B[Three.js]
-    A --> C[GraphQL]
-    A --> D[Docker]
-    B --> E[🚀 Building]
-    C --> E
-    D --> E
-    E --> F[Modern Web Apps]
-    E --> G[Interactive Experiences]
-    E --> H[Scalable Solutions]
+### 🎮 Tugamon (In Development)
+**Next.js • React • Supabase**
+- Pokemon-inspired experience celebrating Portuguese culture
+- Creative fusion of gaming and cultural heritage
+
+## 💼 Professional Experience
+
+```yaml
+Current Role: Frontend Developer (SAP UI5/React) @ ATOM
+Duration: July 2023 - Present
+Achievements:
+  - Served 1000+ internal users across multiple departments
+  - Improved code maintainability through modular architecture
+  - Successfully integrated SAP BTP cloud services
+  - Led testing and deployment processes
 ```
 
-</div>
+## 🎵 When I'm Not Coding
 
-- 🔭 Currently working on **Liga dos Veteranos do Sado** - Football league management platform
-- 🌱 Learning **Three.js** for 3D web experiences
-- 👯 Looking to collaborate on **React/Next.js projects**
-- 💬 Ask me about **React, JavaScript, and Frontend Development**
-- ⚡ Fun fact: **I love turning coffee into code** ☕
+- 🎮 **Gaming**: Exploring new worlds and interactive stories
+- 🎶 **Music**: Hip-hop, rock & pop fuel my coding sessions
+- ⚽ **Sports**: Football and basketball enthusiast
+- 🔬 **Tech Trends**: Always researching AI, crypto, and emerging tools
 
----
-
-## 🏆 Featured Projects
+## 📈 Core Stats
 
 <div align="center">
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🏆 **Liga dos Veteranos** | Football league management platform | React, Node.js, MongoDB | [🔗 Live](link) [📱 Code](link) |
-| 📚 **Benny's CheatSheet** | React component library | React, TypeScript, Storybook | [🔗 Live](link) [📱 Code](link) |
-| 🍽️ **Restaurant Website** | Modern restaurant landing page | React, Gatsby, GraphQL | [🔗 Live](link) [📱 Code](link) |
+| 💼 Experience | 🛠️ Technologies | 🚀 Projects | ☕ Energy Drinks |
+|:-------------:|:----------------:|:-----------:|:----------------:|
+|     2+        |       25+        |     5+      |        ∞         |
 
 </div>
 
----
+## 🌟 Core Values
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gadanup&bg_color=0a0a0a&color=4a90e2&line=4a90e2&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🌟 Skills Breakdown
-
-<div align="center">
-
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-90%25-4A90E2?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-85%25-4A90E2?style=flat-square&logo=typescript)
-![CSS](https://img.shields.io/badge/CSS-95%25-4A90E2?style=flat-square&logo=css3)
-![HTML](https://img.shields.io/badge/HTML-95%25-4A90E2?style=flat-square&logo=html5)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-Expert-4CAF50?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-Advanced-4A90E2?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-FF9800?style=flat-square&logo=node.js)
-
-</div>
-
----
-
-## 🎨 Portfolio Highlights
-
-<div align="center">
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-4A90E2?style=for-the-badge&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="YOUR_BLOG_LINK">
-    <img src="https://img.shields.io/badge/📝_Read_My_Blog-D81B60?style=for-the-badge&logoColor=white" alt="Blog" />
-  </a>
-  <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/📄_Download_Resume-4CAF50?style=for-the-badge&logoColor=white" alt="Resume" />
-  </a>
-</div>
-
-### 🎯 What I'm Known For
-- ✨ **Pixel-perfect implementations** from Figma designs
-- ⚡ **Performance optimization** - improved load times by 40%+
-- 🎨 **Modern UI/UX** with attention to detail
-- 🔧 **Clean, maintainable code** with proper documentation
-- 👥 **Team collaboration** and mentoring junior developers
-
----
-
-## 💼 Professional Journey
-
-```
-🚀 Senior Frontend Developer @ TechCorp Solutions (2023 - Present)
-   ├── Led development of React applications serving 10,000+ users
-   ├── Improved performance by 40% through optimization
-   └── Mentored 2 junior developers
-
-💻 Frontend Developer @ StartupCo (2022 - 2022)
-   ├── Built responsive web applications from design to production
-   ├── Integrated payment systems and RESTful APIs
-   └── Achieved 95% test coverage
-
-🌱 Junior Frontend Developer @ Digital Agency (2021 - 2022)
-   ├── Developed 25+ client projects
-   ├── Achieved 98% client satisfaction rate
-   └── Reduced development time by 30%
+```javascript
+const coreValues = {
+  cleanCode: "Writing maintainable, readable code that stands the test of time",
+  userFirst: "Every decision made with end user experience in mind",
+  performance: "Building fast, optimized applications users love",
+  teamPlayer: "Collaborating effectively across different technology stacks"
+};
 ```
 
----
-
-## 🤝 Let's Connect!
+## 📬 Let's Connect
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER)
-
-</div>
-
-<div align="center">
-  <h3>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
   
-  <img src="https://komarev.com/ghpvc/?username=Gadanup&style=flat-square&color=4A90E2" alt="Profile Views" />
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiojesus00/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gadanup)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudio_jesus2000@hotmail.com)
   
-  <br><br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=100&section=footer" alt="Footer Wave" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>💙 Built with love and lots of coffee ☕</sub>
+  
+  **"The best developers stay curious, keep learning, and never lose that excitement for building something awesome"**
+  
+  ![Visitor Count](https://profile-counter.glitch.me/Gadanup/count.svg)
+  
 </div>
